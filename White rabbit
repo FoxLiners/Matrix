@@ -1,0 +1,183 @@
+using System;
+using System.Threading;
+
+namespace Matrix
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.Write("W");
+            Thread.Sleep(100);
+            Console.Write("a");
+            Thread.Sleep(100);
+            Console.Write("k");
+            Thread.Sleep(100);
+            Console.Write("e");
+            Thread.Sleep(100);
+            Console.Write(" ");
+            Thread.Sleep(100);
+            Console.Write("u");
+            Thread.Sleep(100);
+            Console.Write("p");
+            Thread.Sleep(100);
+            Console.Write(" ");
+            Thread.Sleep(100);
+            Console.Write("N");
+            Thread.Sleep(100);
+            Console.Write("e");
+            Thread.Sleep(100);
+            Console.Write("o");
+            Thread.Sleep(100);
+            Console.Write(".");
+            Thread.Sleep(100);
+            Console.Write(".");
+            Thread.Sleep(100);
+            Console.Write(".");
+            Thread.Sleep(2000);
+
+            Console.Clear();
+
+            Console.Write("T");
+            Thread.Sleep(100);
+            Console.Write("h");
+            Thread.Sleep(100);
+            Console.Write("e");
+            Thread.Sleep(100);
+            Console.Write(" ");
+            Thread.Sleep(100);
+            Console.Write("M");
+            Thread.Sleep(100);
+            Console.Write("a");
+            Thread.Sleep(100);
+            Console.Write("t");
+            Thread.Sleep(100);
+            Console.Write("r");
+            Thread.Sleep(100);
+            Console.Write("i");
+            Thread.Sleep(100);
+            Console.Write("x");
+            Thread.Sleep(100);
+            Console.Write(" ");
+            Thread.Sleep(100);
+            Console.Write("h");
+            Thread.Sleep(100);
+            Console.Write("a");
+            Thread.Sleep(100);
+            Console.Write("s");
+            Thread.Sleep(100);
+            Console.Write(" ");
+            Thread.Sleep(100);
+            Console.Write("y");
+            Thread.Sleep(100);
+            Console.Write("o");
+            Thread.Sleep(100);
+            Console.Write("u");
+            Thread.Sleep(100);
+            Console.Write(".");
+            Thread.Sleep(100);
+            Console.Write(".");
+            Thread.Sleep(100);
+            Console.Write(".");
+            Thread.Sleep(2000);
+
+            Console.Clear();
+
+            Console.Write("F");
+            Thread.Sleep(100);
+            Console.Write("o");
+            Thread.Sleep(100);
+            Console.Write("l");
+            Thread.Sleep(100);
+            Console.Write("l");
+            Thread.Sleep(100);
+            Console.Write("o");
+            Thread.Sleep(100);
+            Console.Write("w");
+            Thread.Sleep(100);
+            Console.Write(" ");
+            Thread.Sleep(100);
+            Console.Write("t");
+            Thread.Sleep(100);
+            Console.Write("h");
+            Thread.Sleep(100);
+            Console.Write("e");
+            Thread.Sleep(100);
+            Console.Write(" ");
+            Thread.Sleep(100);
+            Console.Write("w");
+            Thread.Sleep(100);
+            Console.Write("h");
+            Thread.Sleep(100);
+            Console.Write("i");
+            Thread.Sleep(100);
+            Console.Write("t");
+            Thread.Sleep(100);
+            Console.Write("e");
+            Thread.Sleep(100);
+            Console.Write(" ");
+            Thread.Sleep(100);
+            Console.Write("r");
+            Thread.Sleep(100);
+            Console.Write("a");
+            Thread.Sleep(100);
+            Console.Write("b");
+            Thread.Sleep(100);
+            Console.Write("b");
+            Thread.Sleep(100);
+            Console.Write("i");
+            Thread.Sleep(100);
+            Console.Write("t");
+            Thread.Sleep(100);
+            Console.Write(".");
+            Thread.Sleep(100);
+            Console.Write(".");
+            Thread.Sleep(100);
+            Console.Write(".");
+            Thread.Sleep(2000);
+
+            Console.Clear();
+
+            Console.Write("K");
+            Thread.Sleep(100);
+            Console.Write("n");
+            Thread.Sleep(100);
+            Console.Write("o");
+            Thread.Sleep(100);
+            Console.Write("c");
+            Thread.Sleep(100);
+            Console.Write("k");
+            Thread.Sleep(100);
+            Console.Write(",");
+            Thread.Sleep(100);
+            Console.Write(" ");
+            Thread.Sleep(100);
+            Console.Write("k");
+            Thread.Sleep(100);
+            Console.Write("n");
+            Thread.Sleep(100);
+            Console.Write("o");
+            Thread.Sleep(100);
+            Console.Write("c");
+            Thread.Sleep(100);
+            Console.Write("k");
+            Thread.Sleep(100);
+            Console.Write(",");
+            Thread.Sleep(100);
+            Console.Write(" ");
+            Thread.Sleep(100);
+            Console.Write("N");
+            Thread.Sleep(100);
+            Console.Write("e");
+            Thread.Sleep(100);
+            Console.Write("o");
+            Thread.Sleep(100);
+            Console.Write(".");
+            Thread.Sleep(5000);
+
+            Console.Clear();
+
+        }
+    }
+}
